@@ -26,7 +26,7 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
-            <h1>Site Blog Nazaroff ReactJS</h1>
+            <h1>Site Blog Nazaroff ReactJS2</h1>
         </header>
       )}
       <div className="post-feed">
